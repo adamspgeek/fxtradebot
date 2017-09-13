@@ -1,0 +1,151 @@
+[9:29:39] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16148.01 BRL
+[9:34:30] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16231.98 BRL
+[9:35:10] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16231.97 BRL
+[9:35:11] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16231.96 BRL
+[9:35:14] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16239.99 BRL
+[9:35:14] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16231.949999999999 BRL
+[9:35:15] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16231.94 BRL
+[9:35:16] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16231.93 BRL
+[9:35:17] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16231.92 BRL
+[9:35:18] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16231.91 BRL
+[9:35:19] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16239.99 BRL
+[9:35:42] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16239.98 BRL
+[9:35:43] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16239.97 BRL
+[9:35:46] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16239.96 BRL
+[9:35:47] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16239.949999999999 BRL
+[9:35:48] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16239.94 BRL
+[9:35:50] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16239.93 BRL
+[9:35:52] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16239.92 BRL
+[9:35:54] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16247.99 BRL
+[9:38:42] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16247.98 BRL
+[9:38:43] FOX Trade Ledger | LedgerID: 18974243 | Operation: Credit | Amount: 0.004062 BRL | Description: Fee on trade
+[9:38:43] FOX Trade Ledger | LedgerID: 18974238 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[9:38:43] FOX Trade Ledger | LedgerID: 18974236 | Operation: Credit | Amount: 1.624799 BRL | Description: Trade
+[9:39:04] FOX Trade Ledger | LedgerID: 18974269 | Operation: Credit | Amount: 0.004062 BRL | Description: Fee on trade
+[9:39:04] FOX Trade Ledger | LedgerID: 18974264 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[9:39:04] FOX Trade Ledger | LedgerID: 18974262 | Operation: Credit | Amount: 1.624798 BRL | Description: Trade
+[9:43:16] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16247.97 BRL
+[9:43:22] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16247.96 BRL
+[9:43:29] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16247.93 BRL
+[9:43:59] FOX Trade Ledger | LedgerID: 18974469 | Operation: Credit | Amount: 0.00406198 BRL | Description: Fee on trade
+[9:43:59] FOX Trade Ledger | LedgerID: 18974464 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[9:43:59] FOX Trade Ledger | LedgerID: 18974462 | Operation: Credit | Amount: 1.624793 BRL | Description: Trade
+[9:44:21] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16249.49 BRL
+[9:44:58] FOX Trade Ledger | LedgerID: 18974513 | Operation: Credit | Amount: 0.00406237 BRL | Description: Fee on trade
+[9:44:58] FOX Trade Ledger | LedgerID: 18974508 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[9:44:58] FOX Trade Ledger | LedgerID: 18974506 | Operation: Credit | Amount: 1.624949 BRL | Description: Trade
+[9:45:40] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16249.97 BRL
+[9:45:41] FOX Trade Ledger | LedgerID: 18974563 | Operation: Credit | Amount: 0.00812499 BRL | Description: Fee on trade
+[9:45:41] FOX Trade Ledger | LedgerID: 18974561 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[9:45:41] FOX Trade Ledger | LedgerID: 18974559 | Operation: Credit | Amount: 1.624998 BRL | Description: Trade
+[9:45:54] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16259.02 BRL
+[9:45:56] FOX Trade Ledger | LedgerID: 18974583 | Operation: Credit | Amount: 0.0040625 BRL | Description: Fee on trade
+[9:45:56] FOX Trade Ledger | LedgerID: 18974578 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[9:45:56] FOX Trade Ledger | LedgerID: 18974576 | Operation: Credit | Amount: 1.624999 BRL | Description: Trade
+[9:45:58] FOX Trade Ledger | LedgerID: 18974638 | Operation: Credit | Amount: 1.625902 BRL | Description: Trade
+[9:45:58] FOX Trade Ledger | LedgerID: 18974645 | Operation: Credit | Amount: 0.00406476 BRL | Description: Fee on trade
+[9:45:58] FOX Trade Ledger | LedgerID: 18974640 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[9:46:03] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16259.49 BRL
+[9:46:11] FOX Trade Ledger | LedgerID: 18974673 | Operation: Credit | Amount: 0.00406487 BRL | Description: Fee on trade
+[9:46:11] FOX Trade Ledger | LedgerID: 18974668 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[9:46:11] FOX Trade Ledger | LedgerID: 18974666 | Operation: Credit | Amount: 1.625949 BRL | Description: Trade
+[9:47:12] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16280.98 BRL
+[9:47:38] FOX Trade Ledger | LedgerID: 18974707 | Operation: Credit | Amount: 0.00407025 BRL | Description: Fee on trade
+[9:47:38] FOX Trade Ledger | LedgerID: 18974700 | Operation: Credit | Amount: 1.628098 BRL | Description: Trade
+[9:47:38] FOX Trade Ledger | LedgerID: 18974702 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[9:48:28] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16280.99 BRL
+[9:48:32] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16284.77 BRL
+[9:48:33] FOX Trade Ledger | LedgerID: 18974829 | Operation: Credit | Amount: 0.00407119 BRL | Description: Fee on trade
+[9:48:33] FOX Trade Ledger | LedgerID: 18974793 | Operation: Credit | Amount: 0.00407025 BRL | Description: Fee on trade
+[9:48:33] FOX Trade Ledger | LedgerID: 18974788 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[9:48:33] FOX Trade Ledger | LedgerID: 18974786 | Operation: Credit | Amount: 1.628099 BRL | Description: Trade
+[9:48:33] FOX Trade Ledger | LedgerID: 18974824 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[9:48:33] FOX Trade Ledger | LedgerID: 18974822 | Operation: Credit | Amount: 1.628477 BRL | Description: Trade
+[9:48:33] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16283.18 BRL
+[9:48:56] FOX Trade Ledger | LedgerID: 18974861 | Operation: Credit | Amount: 0.0040708 BRL | Description: Fee on trade
+[9:48:56] FOX Trade Ledger | LedgerID: 18974856 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[9:48:56] FOX Trade Ledger | LedgerID: 18974854 | Operation: Credit | Amount: 1.628318 BRL | Description: Trade
+[9:56:07] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16300 BRL
+[9:57:38] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16284.74 BRL
+[9:57:40] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16283.75 BRL
+[9:57:48] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16283.73 BRL
+[9:57:50] FOX Trade Ledger | LedgerID: 18975201 | Operation: Credit | Amount: 0.00407094 BRL | Description: Fee on trade
+[9:57:50] FOX Trade Ledger | LedgerID: 18975196 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[9:57:50] FOX Trade Ledger | LedgerID: 18975194 | Operation: Credit | Amount: 1.628375 BRL | Description: Trade
+[9:57:59] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16283.71 BRL
+[9:58:03] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16283.73 BRL
+[9:58:15] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16283.69 BRL
+[9:58:32] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16283.67 BRL
+[9:58:42] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16283.65 BRL
+[9:58:45] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16280 BRL
+[10:09:19] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16283.64 BRL
+[10:10:21] FOX Trade Ledger | LedgerID: 18975551 | Operation: Credit | Amount: 0.00407091 BRL | Description: Fee on trade
+[10:10:21] FOX Trade Ledger | LedgerID: 18975546 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[10:10:21] FOX Trade Ledger | LedgerID: 18975544 | Operation: Credit | Amount: 1.628364 BRL | Description: Trade
+[10:12:46] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16283.49 BRL
+[10:13:01] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16283.039999999999 BRL
+[10:13:05] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16283.02 BRL
+[10:13:18] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16280.039999999999 BRL
+[10:13:41] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16280.03 BRL
+[10:13:41] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16280.02 BRL
+[10:13:43] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16280.01 BRL
+[10:13:46] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16280 BRL
+[10:13:49] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16280 BRL
+[10:13:53] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16280 BRL
+[10:13:55] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16283.02 BRL
+[10:14:06] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16282.99 BRL
+[10:14:40] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16282.69 BRL
+[10:14:56] FOX Trade Ledger | LedgerID: 18975649 | Operation: Credit | Amount: 0.00407067 BRL | Description: Fee on trade
+[10:14:56] FOX Trade Ledger | LedgerID: 18975644 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[10:14:56] FOX Trade Ledger | LedgerID: 18975642 | Operation: Credit | Amount: 1.628269 BRL | Description: Trade
+[10:14:56] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16282.99 BRL
+[10:15:27] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16282.97 BRL
+[10:15:39] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16282.96 BRL
+[10:15:40] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16282.949999999999 BRL
+[10:15:41] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16282.94 BRL
+[10:15:44] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16282.949999999999 BRL
+[10:15:54] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16282.93 BRL
+[10:15:58] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16282.92 BRL
+[10:16:01] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16282.89 BRL
+[10:16:02] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16282.88 BRL
+[10:16:03] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16282.869999999999 BRL
+[10:16:08] Foxbit Creating Sale: Amount: 0.0001 BTC | Price: 16282.94 BRL
+[10:22:21] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16151.02 BRL
+[10:22:25] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16151.04 BRL
+[10:22:25] FOX Trade Ledger | LedgerID: 18975888 | Operation: Credit | Amount: 0.00186838 BTC | Description: Deposit
+[10:22:30] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16151.06 BRL
+[10:22:35] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16151.08 BRL
+[10:22:41] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16151.1 BRL
+[10:22:48] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16151.130000000001 BRL
+[10:22:53] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16151.15 BRL
+[10:22:58] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16152.03 BRL
+[10:23:04] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16152.050000000001 BRL
+[10:23:08] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16152.53 BRL
+[10:23:13] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16153.01 BRL
+[10:23:18] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16153.03 BRL
+[10:23:24] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16153.050000000001 BRL
+[10:23:26] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16154.01 BRL
+[10:23:30] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16154.04 BRL
+[10:23:32] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16154.51 BRL
+[10:23:36] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16155.03 BRL
+[10:23:40] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16157.01 BRL
+[10:23:45] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16157.03 BRL
+[10:23:50] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16157.050000000001 BRL
+[10:23:55] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16157.07 BRL
+[10:24:00] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16160.03 BRL
+[10:24:07] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16160.050000000001 BRL
+[10:24:14] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16161.01 BRL
+[10:24:18] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16200.01 BRL
+[10:25:00] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16265 BRL
+[10:25:31] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16205.01 BRL
+[10:25:49] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16265 BRL
+[10:26:39] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16205.01 BRL
+[10:26:41] FOX Trade Ledger | LedgerID: 18976095 | Operation: Credit | Amount: 2.5e-7 BTC | Description: Fee on trade
+[10:26:41] FOX Trade Ledger | LedgerID: 18976090 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[10:26:41] FOX Trade Ledger | LedgerID: 18976088 | Operation: Credit | Amount: 1.620501 BRL | Description: Trade
+[10:26:49] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16160.04 BRL
+[10:27:31] FOX Trade Ledger | LedgerID: 18976139 | Operation: Credit | Amount: 2.5e-7 BTC | Description: Fee on trade
+[10:27:31] FOX Trade Ledger | LedgerID: 18976134 | Operation: Credit | Amount: 0.0001 BTC | Description: Trade
+[10:27:31] FOX Trade Ledger | LedgerID: 18976132 | Operation: Credit | Amount: 1.616004 BRL | Description: Trade
+[10:30:44] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16155.01 BRL
+[10:31:47] Foxbit Creating Purchase: Amount: 0.0001 BTC | Price: 16152.51 BRL
